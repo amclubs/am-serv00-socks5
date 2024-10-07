@@ -7,3 +7,5 @@ pgrep -x "s5" > /dev/null
 if [ $? -ne 0 ]; then
     nohup /home/${USER}/.s5/s5 -c /home/${USER}/.s5/config.json >/dev/null 2>&1 &
 fi
+
+

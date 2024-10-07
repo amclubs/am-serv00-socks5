@@ -3,7 +3,7 @@
 
 #
 ▶️ **新人[YouTube](https://youtube.com/@AM_CLUB)** 需要您的支持，请务必帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
-</br>🎁 不要只是下载或Fork。请 **follow** 我的GitHub、给我所有项目一个 **Star** 星星（拜托了）！你的支持是我不断前进的动力！ 💖
+</br>🎁 在Fork项目时,请 **follow** 我的GitHub、给我所有项目一个 **Star** 星星支持下！你的支持是我不断前进的动力！ 💖
 </br>✅**解锁更多技术请点击进入 YouTube频道[【@AM_CLUB】](https://youtube.com/@AM_CLUB) 、[【个人博客】](https://am.809098.xyz)** 、TG群[【AM科技 | 分享交流群】](https://t.me/AM_CLUBS) 、获取免费节点[【进群发送关键字: 订阅】](https://t.me/AM_CLUBS)
 
 
@@ -115,7 +115,7 @@ pm2 unstartup && pm2 delete all && npm uninstall -g pm2
 ```
 ----
 
-  # 
+# 
  <center><details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
  *我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
   
@@ -123,7 +123,7 @@ pm2 unstartup && pm2 delete all && npm uninstall -g pm2
   
  </details></center>
 
- #
+#
  免责声明:
  - 1、该项目设计和开发仅供学习、研究和安全测试目的。请于下载后 24 小时内删除, 不得用作任何商业用途, 文字、数据及图片均有所属版权, 如转载须注明来源。
  - 2、使用本程序必循遵守部署服务器所在地区的法律、所在国家和用户所在国家的法律法规。对任何人或团体使用该项目时产生的任何后果由使用者承担。
